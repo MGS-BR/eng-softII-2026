@@ -54,7 +54,6 @@ O projeto pode envolver tecnologias como:
 * Backend: (Node.js, Java, etc.)
 * Banco de Dados: (PostgreSQL, MySQL, etc.)
 * Inteligência Artificial
-* APIs de processamento de documentos
 
 *(A definir conforme evolução do projeto)*
 
@@ -63,24 +62,24 @@ O projeto pode envolver tecnologias como:
 ## 📂 Documentação
 
 * 📌 Requisitos Funcionais:
-  👉 [clique aqui](https://github.com/MGS-BR/eng-softII-2026/blob/main/Docs/Requisitos%20Funcionais.md)
+  👉 [clique aqui](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/Docs/Requisitos%20Funcionais.md)
 
 * 📌 Requisitos Não Funcionais:
-  👉 [clique aqui](https://github.com/MGS-BR/eng-softII-2026/blob/main/Docs/Requisitos%20n%C3%A3o%20funcionais.md)
+  👉 [clique aqui](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/Docs/Requisitos%20n%C3%A3o%20funcionais.md)
 
 * 📑 Casos de Uso:
-  👉 [Alto nível](https://github.com/MGS-BR/eng-softII-2026/blob/main/Docs%2Farquitetura.png), [Baixo nível](https://github.com/MGS-BR/eng-softII-2026/blob/main/Docs/Casos%20de%20uso.md)
+  👉 [Alto nível](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/Docs/arquitetura.png), [Baixo nível](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/Docs/Casos%20de%20uso.md)
 
 * 👤 Personas:
-  👉 [clique aqui](https://github.com/MGS-BR/eng-softII-2026/blob/main/Docs/personas.md)
+  👉 [clique aqui](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/Docs/personas.md)
 
 ---
 
 ## 📑 Diagrama
 
-![Diagrama](https://github.com/MGS-BR/eng-softII-2026/blob/main/Docs%2Farquitetura.png)
+![Diagrama](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/Docs/arquitetura.png)
 
-Código fonte: [docs/arquitetura.puml](https://github.com/MGS-BR/eng-softII-2026/blob/main/Docs%2Farquitetura.puml)
+Código fonte: [docs/arquitetura.puml](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/Docs/arquitetura.puml)
 
 ---
 
