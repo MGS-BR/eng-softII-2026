@@ -28,7 +28,7 @@ jobs:
       # 3. Gerar diagramas (.svg)
       - name: Generate diagrams
         run: |
-          find . -name "*.puml" -exec plantuml -tsvg {} \;
+          find . -name "*.puml" -exec plantuml -tpng {} \;
 
       # 4. Criar Pull Request automático
       - name: Create Pull Request
