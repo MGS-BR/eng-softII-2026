@@ -42,7 +42,7 @@ jobs:
             Este PR foi criado automaticamente pelo GitHub Actions.
 
             ✔ Diagramas PlantUML atualizados  
-            ✔ Arquivos gerados em SVG  
+            ✔ Arquivos gerados em PNG
             
             Basta revisar e dar merge 🚀
           delete-branch: true
