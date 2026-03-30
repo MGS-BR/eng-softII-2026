@@ -9,7 +9,9 @@ Projeto da Disciplina de Engenharia de Softaware II do curso de ADS da Fatec Sor
 7. Veja os nossos Requisistos Funcionas [aqui]()!
 8. Veja os nossos Requisistos não Funcionais [aqui]()!
 9. [Personas](https://github.com/MGS-BR/eng-softII-2026/blob/main/personas.md)
-10. Antonio Victor Mello Mielitz Lopes RA: 0030482511008
+10.Alunos:
+
+   Antonio Victor Mello Mielitz Lopes RA: 0030482511008
 
    Pedro Henrique Dias da Silva RA: 0030482511042
 
