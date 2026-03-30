@@ -1,4 +1,4 @@
-**PERSONAS DO PROJETO**
+## **PERSONAS DO PROJETO**
 
 ## Navegação
 - [👤 Rogério Silva](#persona-1-rogério-silva)
