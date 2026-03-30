@@ -20,15 +20,15 @@ rectangle "Sistema Contabilidade Ágil" {
 Cliente --> Upload
 Contador --> Clientes
 Contador --> ManageDocs
+Contador --> Lançamentos
 IA --> Lançamentos
 
 ManageDocs --> Review
 ManageDocs --> Aprove
 ManageDocs --> toCorrect
 
-ManageDocs --> Lançamentos
-Review --> Lançamentos
-Aprove --> Lançamentos
-toCorrect --> Lançamentos
+Lançamentos --> Review
+Lançamentos --> Aprove
+Lançamentos --> toCorrect
 
 @enduml
