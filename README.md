@@ -25,9 +25,9 @@ Desenvolver uma aplicação inteligente que aumente a produtividade de escritór
 
 ## 💰 Custos
 
-* Custo atual (sem o uso da aplicação): ≈ R$ 109,58 p/documento
+* **Custo sem a aplicação:** ≈ R$ 109,58 p/documento
 
-* Custo utilizando a aplicação: a calcular
+* **Custo utilizando a aplicação:** a calcular
 
 ---
 
