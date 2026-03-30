@@ -25,6 +25,10 @@ IA --> Lançamentos
 ManageDocs --> Review
 ManageDocs --> Aprove
 ManageDocs --> toCorrect
+
 ManageDocs --> Lançamentos
+Review --> Lançamentos
+Aprove --> Lançamentos
+toCorrect --> Lançamentos
 
 @enduml
