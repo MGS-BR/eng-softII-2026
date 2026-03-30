@@ -27,8 +27,8 @@ ManageDocs --> Review
 ManageDocs --> Aprove
 ManageDocs --> toCorrect
 
-Lançamentos --> Review
-Lançamentos --> Aprove
-Lançamentos --> toCorrect
+Review <-- Lançamentos
+Aprove <-- Lançamentos
+toCorrect <-- Lançamentos
 
 @enduml
