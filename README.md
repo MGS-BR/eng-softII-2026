@@ -68,6 +68,9 @@ O projeto pode envolver tecnologias como:
 * 📌 Requisitos Não Funcionais:
   👉 [clique aqui](https://github.com/MGS-BR/eng-softII-2026/blob/main/Docs/Requisitos%20n%C3%A3o%20funcionais.md)
 
+* 📑 Casos de Uso:
+  👉 [clique aqui](https://github.com/MGS-BR/eng-softII-2026/blob/main/Docs/Casos%20de%20uso.md)
+
 * 👤 Personas:
   👉 [clique aqui](https://github.com/MGS-BR/eng-softII-2026/blob/main/Docs/personas.md)
 
