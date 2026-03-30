@@ -69,17 +69,13 @@ O projeto pode envolver tecnologias como:
 
 ## 📂 Documentação
 
-* 📌 Requisitos Funcionais:
-  👉 [clique aqui](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/Docs/Requisitos%20Funcionais.md)
+* 📌 [Requisitos Funcionais](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/Docs/Requisitos%20Funcionais.md)
 
-* 📌 Requisitos Não Funcionais:
-  👉 [clique aqui](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/Docs/Requisitos%20n%C3%A3o%20funcionais.md)
+* 📌 [Requisitos Não Funcionais](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/Docs/Requisitos%20n%C3%A3o%20funcionais.md)
 
-* 📑 Casos de Uso:
-  👉 [Alto nível](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/Docs/arquitetura.png), [Baixo nível](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/Docs/Casos%20de%20uso.md)
+* 📑 Casos de Uso: [Alto nível](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/Docs/arquitetura.png), [Baixo nível](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/Docs/Casos%20de%20uso.md)
 
-* 👤 Personas:
-  👉 [clique aqui](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/Docs/personas.md)
+* 👤 [Personas](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/Docs/personas.md)
 
 ---
 
