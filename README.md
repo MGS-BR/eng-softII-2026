@@ -53,7 +53,7 @@ O projeto pode envolver tecnologias como:
 * Frontend: (React, Angular, etc.)
 * Backend: (Node.js, Java, etc.)
 * Banco de Dados: (PostgreSQL, MySQL, etc.)
-* Inteligência Artificial / OCR
+* Inteligência Artificial
 * APIs de processamento de documentos
 
 *(A definir conforme evolução do projeto)*
