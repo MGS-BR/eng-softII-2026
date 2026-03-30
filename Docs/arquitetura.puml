@@ -4,6 +4,7 @@ skinparam packageStyle rectangle
 
 actor Contador
 actor Cliente
+actor Teste
 
 rectangle "Sistema Contabilidade Ágil" {
 
@@ -32,6 +33,7 @@ rectangle "Sistema Contabilidade Ágil" {
 
 Contador --> UI
 Cliente --> UI
+Teste --> UI
 
 UI --> Auth
 UI --> Clientes
