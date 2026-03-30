@@ -2,53 +2,29 @@
 left to right direction
 skinparam packageStyle rectangle
 
-actor Contador
 actor Cliente
-actor Teste
+actor Contador
+actor IA
 
 rectangle "Sistema Contabilidade Ágil" {
 
-  package "Frontend (Web/Mobile)" {
-    (Interface do Usuário) as UI
-  }
-
-  package "Backend (API)" {
-    (Autenticação) as Auth
-    (Gestão de Clientes) as Clientes
-    (Upload de Documentos) as Upload
-    (Processamento de Documentos) as Proc
-    (Gestão de Lançamentos) as Lancamentos
-    (Notificações) as Notif
-  }
-
-  package "Serviços Externos" {
-    (Serviço de IA) as IA
-  }
-
-  package "Persistência" {
-    (Banco de Dados) as DB
-    (Armazenamento de Arquivos) as Storage
-  }
+  (Enviar arquivos) as Upload
+  (Gerenciar clientes) as Clientes
+  (Gerenciar documentos) as ManageDocs
+  (Revisar lançamentos) as Review
+  (Aprovar lançamentos) as Aprove
+  (Corrigir lançamentos) as toCorrect
+  (Realizar lançamentos contábeis) as Lançamentos
 }
 
-Contador --> UI
-Cliente --> UI
-Teste --> UI
+Cliente --> Upload
+Contador --> Clientes
+Contador --> ManageDocs
+IA --> Lançamentos
 
-UI --> Auth
-UI --> Clientes
-UI --> Upload
-UI --> Lancamentos
-
-Upload --> Storage
-Upload --> Proc
-
-Proc --> IA
-Proc --> DB
-
-Clientes --> DB
-Lancamentos --> DB
-
-Notif --> Contador
+ManageDocs --> Review
+ManageDocs --> Aprove
+ManageDocs --> toCorrect
+ManageDocs --> Lançamentos
 
 @enduml
