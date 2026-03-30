@@ -35,14 +35,13 @@ jobs:
         uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: 🤖 Auto-generate PlantUML diagrams
+          commit-message: Auto-generate PlantUML diagrams
           branch: auto/plantuml-diagrams
-          title: 🤖 Atualização automática de diagramas
+          title: Atualização automática de diagramas
           body: |
             Este PR foi criado automaticamente pelo GitHub Actions.
 
             ✔ Diagramas PlantUML atualizados  
             ✔ Arquivos gerados em PNG
             
-            Basta revisar e dar merge 🚀
           delete-branch: true
