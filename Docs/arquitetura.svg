@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="576px" preserveAspectRatio="none" style="width:1171px;height:576px;" version="1.1" viewBox="0 0 1171 576" width="1171px" zoomAndPan="magnify"><defs><filter height="300%" id="f1c5dregcp1hle" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[0ceab01ded48a8e5b81364ec68127c12]
+cluster Sistema Contabilidade Ágil--><rect fill="#FFFFFF" filter="url(#f1c5dregcp1hle)" height="444" style="stroke: #000000; stroke-width: 1.5;" width="1086" x="74" y="24.5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="208" x="513" y="39.4951">Sistema Contabilidade Ágil</text><!--MD5=[ddc9e4b8fc54b6f08b86d83b7564709b]
+cluster Frontend (Web/Mobile)--><polygon fill="#FFFFFF" filter="url(#f1c5dregcp1hle)" points="98,222.5,284,222.5,291,244.7969,296,244.7969,296,311.5,98,311.5,98,222.5" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="98" x2="291" y1="244.7969" y2="244.7969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="180" x="102" y="237.4951">Frontend (Web/Mobile)</text><!--MD5=[2c2fb74e16b565e7300fda7ea67cc709]
+cluster Backend (API)--><polygon fill="#FFFFFF" filter="url(#f1c5dregcp1hle)" points="324,67.5,439,67.5,446,89.7969,855,89.7969,855,444.5,324,444.5,324,67.5" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="324" x2="446" y1="89.7969" y2="89.7969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="109" x="328" y="82.4951">Backend (API)</text><!--MD5=[7de20e8ec46952a31513f874aef83c6e]
+cluster Serviços Externos--><polygon fill="#FFFFFF" filter="url(#f1c5dregcp1hle)" points="930.5,309.5,1079.5,309.5,1086.5,331.7969,1089.5,331.7969,1089.5,390.5,930.5,390.5,930.5,309.5" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="930.5" x2="1086.5" y1="331.7969" y2="331.7969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="143" x="934.5" y="324.4951">Serviços Externos</text><!--MD5=[866f9361dbc30b227ccf4fa86daf9792]
+cluster Persistência--><polygon fill="#FFFFFF" filter="url(#f1c5dregcp1hle)" points="883,115.5,986,115.5,993,137.7969,1136,137.7969,1136,285.5,883,285.5,883,115.5" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="883" x2="993" y1="137.7969" y2="137.7969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="97" x="887" y="130.4951">Persistência</text><ellipse cx="197.1307" cy="276.5261" fill="#FEFECE" filter="url(#f1c5dregcp1hle)" rx="83.1307" ry="19.0261" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="138" x="128.1307" y="281.1746">Interface do Usuário</text><ellipse cx="437.2036" cy="348.6407" fill="#FEFECE" filter="url(#f1c5dregcp1hle)" rx="63.7036" ry="15.1407" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="90" x="392.2036" y="353.2892">Autenticação</text><ellipse cx="437.0624" cy="121.5125" fill="#FEFECE" filter="url(#f1c5dregcp1hle)" rx="80.5624" ry="18.5125" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="132" x="371.0624" y="126.1609">Gestão de Clientes</text><ellipse cx="437.0638" cy="276.3128" fill="#FEFECE" filter="url(#f1c5dregcp1hle)" rx="94.5638" ry="21.3128" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="164" x="355.0638" y="280.9612">Upload de Documentos</text><ellipse cx="716.6502" cy="307.43" fill="#FEFECE" filter="url(#f1c5dregcp1hle)" rx="122.6502" ry="26.93" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="225" x="604.1502" y="312.0785">Processamento de Documentos</text><ellipse cx="436.8093" cy="197.2619" fill="#FEFECE" filter="url(#f1c5dregcp1hle)" rx="96.8093" ry="21.7619" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="169" x="352.3093" y="201.9103">Gestão de Lançamentos</text><ellipse cx="437.0143" cy="413.7029" fill="#FEFECE" filter="url(#f1c5dregcp1hle)" rx="61.5143" ry="14.7029" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="84" x="395.0143" y="418.3513">Notificações</text><ellipse cx="1009.466" cy="359.4932" fill="#FEFECE" filter="url(#f1c5dregcp1hle)" rx="62.966" ry="14.9932" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="88" x="965.466" y="364.1416">Serviço de IA</text><ellipse cx="1009.4711" cy="167.5942" fill="#FEFECE" filter="url(#f1c5dregcp1hle)" rx="73.4711" ry="17.0942" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="115" x="951.9711" y="172.2427">Banco de Dados</text><ellipse cx="1009.5183" cy="244.5037" fill="#FEFECE" filter="url(#f1c5dregcp1hle)" rx="110.5183" ry="24.5037" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="199" x="910.0183" y="249.1521">Armazenamento de Arquivos</text><!--MD5=[ac68ea9df9c875bf41b4e62380e8cce5]
+entity Contador--><ellipse cx="716.5" cy="494.5" fill="#FEFECE" filter="url(#f1c5dregcp1hle)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M716.5,502.5 L716.5,529.5 M703.5,510.5 L729.5,510.5 M716.5,529.5 L703.5,544.5 M716.5,529.5 L729.5,544.5 " fill="none" filter="url(#f1c5dregcp1hle)" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="64" x="684.5" y="562.9951">Contador</text><!--MD5=[d9f75b78703733959770a1bae7362de0]
+entity Cliente--><ellipse cx="30" cy="245.5" fill="#FEFECE" filter="url(#f1c5dregcp1hle)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M30,253.5 L30,280.5 M17,261.5 L43,261.5 M30,280.5 L17,295.5 M30,280.5 L43,295.5 " fill="none" filter="url(#f1c5dregcp1hle)" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="48" x="6" y="313.9951">Cliente</text><!--MD5=[7c68111e57af60f562ff350d1ce3a34f]
+link Contador to UI--><path d="M684.32,526.68 C612.99,527.88 434.89,522.27 316,444.5 C261.05,408.56 224.08,337.34 207.67,300.23 " fill="none" id="Contador-&gt;UI" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="205.58,295.45,205.5115,305.2986,207.5788,300.0331,212.8444,302.1005,205.58,295.45" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[6b2c990f8953bdae68e5a9fa7f59799e]
+link Cliente to UI--><path d="M54.29,276.5 C68.87,276.5 88.66,276.5 108.82,276.5 " fill="none" id="Cliente-&gt;UI" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="113.95,276.5,104.95,272.5,108.95,276.5,104.95,280.5,113.95,276.5" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[c704ddae8443c0f6e252b173ad17853f]
+link UI to Auth--><path d="M243.78,292.23 C265.57,299.57 292.04,308.25 316,315.5 C339.84,322.71 366.54,330.12 388.7,336.09 " fill="none" id="UI-&gt;Auth" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="393.64,337.42,385.9894,331.2178,388.8119,336.1201,383.9096,338.9427,393.64,337.42" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[d67e14d07a1758ff3047ab79b7d33aaa]
+link UI to Clientes--><path d="M211.82,257.51 C231.89,231.27 271.59,184.15 316,157.5 C332.45,147.63 351.81,140.28 370.12,134.9 " fill="none" id="UI-&gt;Clientes" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="375.26,133.43,365.5085,132.0487,370.4513,134.7998,367.7002,139.7427,375.26,133.43" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[025699113cfad5d8d9582fe0e1a1a48c]
+link UI to Upload--><path d="M280.24,276.5 C298.54,276.5 318.12,276.5 337.02,276.5 " fill="none" id="UI-&gt;Upload" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="342.33,276.5,333.33,272.5,337.33,276.5,333.33,280.5,342.33,276.5" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[becc83ae577a96db7f9a558513113972]
+link UI to Lancamentos--><path d="M245.02,260.89 C282.77,248.36 336.01,230.69 376.68,217.19 " fill="none" id="UI-&gt;Lancamentos" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="381.58,215.56,371.7761,214.6202,376.838,217.1454,374.3128,222.2074,381.58,215.56" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[89bd29a79037aa90acf3bfbb039bf832]
+link Upload to Storage--><path d="M524.18,268.05 C546.87,266.02 571.34,264.01 594,262.5 C695.45,255.75 811.04,250.97 894.33,248.04 " fill="none" id="Upload-&gt;Storage" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="899.77,247.85,890.6382,244.1607,894.7729,248.0213,890.9123,252.156,899.77,247.85" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[ec5fff59e2c2672b1572965a79939944]
+link Upload to Proc--><path d="M522.39,285.93 C547.35,288.72 575.11,291.82 601.61,294.78 " fill="none" id="Upload-&gt;Proc" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="606.89,295.37,598.3915,290.3925,601.9211,294.8131,597.5005,298.3428,606.89,295.37" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[da2683b0cef20812945b753c7b01301e]
+link Proc to IA--><path d="M812.38,324.45 C859.05,332.79 913.65,342.55 953.38,349.65 " fill="none" id="Proc-&gt;IA" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="958.63,350.59,950.4822,345.0571,953.7093,349.7031,949.0632,352.9302,958.63,350.59" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[2eb449f7e3a7e4f662488c1c32eabee4]
+link Proc to DB--><path d="M749.71,281.34 C780.29,257.68 828.39,223.44 875,202.5 C897.55,192.37 923.6,184.72 946.68,179.2 " fill="none" id="Proc-&gt;DB" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="951.55,178.05,941.8743,176.2114,946.6822,179.192,943.7015,183.9999,951.55,178.05" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[cb48d30d25404406739d7161fe180a90]
+link Clientes to DB--><path d="M513.17,127.56 C622.92,136.41 825.79,152.77 934.74,161.55 " fill="none" id="Clientes-&gt;DB" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="939.86,161.97,931.2087,157.2631,934.876,161.5701,930.5689,165.2374,939.86,161.97" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[d247da21c4d57322556f9fccd545d66e]
+link Lancamentos to DB--><path d="M531.57,192.58 C643.48,186.69 828.65,176.96 932.27,171.51 " fill="none" id="Lancamentos-&gt;DB" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="937.44,171.24,928.2464,167.7075,932.4466,171.4968,928.6573,175.697,937.44,171.24" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[a53df54b9e43415f419cda5cf54c84ef]
+link Notif to Contador--><path d="M469.03,426.02 C520.78,446.91 624.47,488.76 679.41,510.93 " fill="none" id="Notif-&gt;Contador" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="684.25,512.89,677.398,505.8154,679.6126,511.0208,674.4072,513.2353,684.25,512.89" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[1953fd765d3b3dd04a6ecb8521b8be05]
+@startuml
+left to right direction
+skinparam packageStyle rectangle
+
+actor Contador
+actor Cliente
+
+rectangle "Sistema Contabilidade Ágil" {
+
+  package "Frontend (Web/Mobile)" {
+    (Interface do Usuário) as UI
+  }
+
+  package "Backend (API)" {
+    (Autenticação) as Auth
+    (Gestão de Clientes) as Clientes
+    (Upload de Documentos) as Upload
+    (Processamento de Documentos) as Proc
+    (Gestão de Lançamentos) as Lancamentos
+    (Notificações) as Notif
+  }
+
+  package "Serviços Externos" {
+    (Serviço de IA) as IA
+  }
+
+  package "Persistência" {
+    (Banco de Dados) as DB
+    (Armazenamento de Arquivos) as Storage
+  }
+}
+
+Contador - -> UI
+Cliente - -> UI
+
+UI - -> Auth
+UI - -> Clientes
+UI - -> Upload
+UI - -> Lancamentos
+
+Upload - -> Storage
+Upload - -> Proc
+
+Proc - -> IA
+Proc - -> DB
+
+Clientes - -> DB
+Lancamentos - -> DB
+
+Notif - -> Contador
+
+@enduml
+
+PlantUML version 1.2020.02(Sun Mar 01 10:22:07 UTC 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 17.0.18+8
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>
