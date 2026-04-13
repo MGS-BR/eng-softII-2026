@@ -87,7 +87,7 @@ Desenvolver uma aplicação inteligente que aumente a produtividade de escritór
 
 * 👤 [Personas](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/docs/produto/personas.md)
 
-* 💻 [Protótipo](https://www.figma.com/make/163bSFTuPebNT12CHOxyEr/Sem-t%C3%ADtulo?t=FMy2XBaNSTi2Eu0Y-1)
+* 💻 [Protótipo](https://laurel-floral-34934178.figma.site/)
 
 ---
 
