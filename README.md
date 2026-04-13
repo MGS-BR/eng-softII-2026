@@ -59,14 +59,10 @@ Desenvolver uma aplicação inteligente que aumente a produtividade de escritór
 
 ## 🛠️ Tecnologias (em definição)
 
-O projeto pode envolver tecnologias como:
-
-* Frontend: (React)
-* Backend: (Javascript)
-* Banco de Dados: (OracleSQL)
-* Inteligência Artificial
-
-
+* Frontend: em definição
+* Backend: em definição
+* Banco de Dados: em definição
+* Inteligência Artificial: em definição
 
 ---
 
