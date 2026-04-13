@@ -80,7 +80,7 @@ O projeto pode envolver tecnologias como:
 
 * 👤 [Personas](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/Docs/personas.md)
 
-* 💻 .[Protótipo](https://www.figma.com/make/163bSFTuPebNT12CHOxyEr/Sem-t%C3%ADtulo?t=FMy2XBaNSTi2Eu0Y-1)
+* 💻 [Protótipo](https://www.figma.com/make/163bSFTuPebNT12CHOxyEr/Sem-t%C3%ADtulo?t=FMy2XBaNSTi2Eu0Y-1)
 
 ---
 
