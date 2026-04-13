@@ -68,9 +68,9 @@ Desenvolver uma aplicação inteligente que aumente a produtividade de escritór
 
 ## 📂 Documentação
 
-* 📌 [Requisitos Funcionais](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/Docs/Requisitos%20Funcionais.md)
+* 📌 [Requisitos Funcionais](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/Docs/Requisitos/requisitos.md#-requisitos-funcionais)
 
-* 📌 [Requisitos Não Funcionais](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/Docs/Requisitos%20n%C3%A3o%20funcionais.md)
+* 📌 [Requisitos Não Funcionais](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/Docs/Requisitos/requisitos.md#%EF%B8%8F-requisitos-n%C3%A3o-funcionais)
 
 * 📑 Casos de Uso: [Alto nível](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/Docs/arquitetura.png), [Baixo nível](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/Docs/Casos%20de%20uso.md)
 
@@ -82,9 +82,9 @@ Desenvolver uma aplicação inteligente que aumente a produtividade de escritór
 
 ## 📑 Diagrama
 
-![Diagrama](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/Docs/arquitetura.png)
+![Diagrama](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/Docs/Diagramas/caso-de-uso.png)
 
-Código fonte: [docs/arquitetura.puml](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/Docs/arquitetura.puml)
+Código fonte: [docs/arquitetura.puml](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/Docs/Diagramas/caso-de-uso.puml)
 
 ---
 
