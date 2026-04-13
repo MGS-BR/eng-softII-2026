@@ -28,12 +28,6 @@ Desenvolver uma aplicação inteligente que aumente a produtividade de escritór
 
 ---
 
-## 💰 Custos
-
-* **Custo sem a aplicação:** ≈ R$ 109,58 p/documento
-
----
-
 ## 👥 Atores do Sistema
 
 * **Cliente (Empresa)**
@@ -47,6 +41,16 @@ Desenvolver uma aplicação inteligente que aumente a produtividade de escritór
 
 ---
 
+
+## 🚀 Funcionalidades
+
+* Upload de documentos fiscais
+* Processamento automático com IA
+* Sugestão de lançamentos contábeis
+* Aprovação/correção por contador
+* Histórico de lançamentos
+---
+
 ## ⚠️ Principais Dores
 
 * Processos manuais demorados
@@ -57,12 +61,19 @@ Desenvolver uma aplicação inteligente que aumente a produtividade de escritór
 
 ---
 
-## 🛠️ Tecnologias (em definição)
+## 🛠️ Tecnologias
 
 * Frontend: em definição
 * Backend: em definição
 * Banco de Dados: em definição
 * Inteligência Artificial: em definição
+
+---
+
+
+## 💰 Custos
+
+* **Custo sem a aplicação:** ≈ R$ 109,58 p/documento
 
 ---
 
