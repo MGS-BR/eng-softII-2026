@@ -63,10 +63,12 @@ Desenvolver uma aplicação inteligente que aumente a produtividade de escritór
 
 ## 🛠️ Tecnologias
 
-* Frontend: em definição
-* Backend: em definição
-* Banco de Dados: em definição
-* Inteligência Artificial: em definição
+* Frontend: React
+* Backend: Node.js
+* Banco de Dados: Supabase/Postgres
+* Inteligência Artificial: Bedrock (Interpretação Contábil)
+* OCR: Textract (Ler documentos)
+* Deploy: Vercel
 
 ---
 
@@ -85,6 +87,8 @@ Desenvolver uma aplicação inteligente que aumente a produtividade de escritór
 
 * 📑 Casos de Uso: [Alto nível](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/docs/diagramas/caso-de-uso.png), [Baixo nível](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/docs/requisitos/casos-de-uso.md)
 
+* 🏷 [Diagrama de Classes](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/docs/diagramas/diagrama-classe.png)
+
 * 👤 [Personas](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/docs/produto/personas.md)
 
 * 💻 [Protótipo](https://laurel-floral-34934178.figma.site/)
@@ -95,14 +99,11 @@ Desenvolver uma aplicação inteligente que aumente a produtividade de escritór
 
 
 * 📑 Casos de uso:
-![Diagrama](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/docs/diagramas/caso-de-uso.png)
-
+![Diagrama Casos de Uso](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/docs/diagramas/caso-de-uso.png)<br>
 Código fonte: [docs/diagramas/caso-de-uso.puml](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/docs/diagramas/caso-de-uso.puml)
 
-* 🏷 Diagrama de Classe:
-
-![Diagrama](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/docs/diagramas/diagrama-classe.png)
-
+* 🏷 Diagrama de Classes:
+![Diagrama de Classes](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/docs/diagramas/diagrama-classe.png)<br>
 Código fonte: [docs/diagramas/diagrama-classe.puml](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/docs/diagramas/diagrama-classe.puml)
 
 ---
