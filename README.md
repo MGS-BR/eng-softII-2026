@@ -91,13 +91,15 @@ Desenvolver uma aplicação inteligente que aumente a produtividade de escritór
 
 ---
 
-## 📑 Diagrama
+## 📝 Diagramas
 
+
+* 📑 Casos de uso:
 ![Diagrama](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/docs/diagramas/caso-de-uso.png)
 
 Código fonte: [docs/diagramas/caso-de-uso.puml](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/docs/diagramas/caso-de-uso.puml)
 
-## 🏷 Diagrama de Classe
+* 🏷 Diagrama de Classe:
 
 ![Diagrama](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/docs/diagramas/diagrama-classe.png)
 
