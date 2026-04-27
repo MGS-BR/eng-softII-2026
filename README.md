@@ -101,7 +101,7 @@ Código fonte: [docs/diagramas/caso-de-uso.puml](https://github.com/Engenharia-d
 
 ![Diagrama](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/docs/diagramas/diagrama-classe.png)
 
-Código fonte: [docs/diagramas/diagrama-classe.puml](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/docs/diagrama/diagrama-classe.puml)
+Código fonte: [docs/diagramas/diagrama-classe.puml](https://github.com/Engenharia-de-Software-Fatec/eng-softII-2026/blob/main/docs/diagramas/diagrama-classe.puml)
 
 ---
 
